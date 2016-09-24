@@ -1,6 +1,7 @@
 Register runner
 
 `./run.sh`
+
 `docker exec -it gitlab-runner register`
 
 Debug runner
