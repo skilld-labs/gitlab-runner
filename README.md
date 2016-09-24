@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/skilldlabs/gitlab-runner-alpine.svg)](https://microbadger.com/images/skilldlabs/gitlab-runner-alpine "Get your own image badge on microbadger.com")
+
 Register runner
 
 `./run.sh`
